@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #333;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+fieldset {
+    border: 1px solid #3498db;
+    margin-bottom: 15px;
+}
+
+legend {
+    color: #3498db;
+}
+
+input,
+select {
+    padding: 5px;
+}
